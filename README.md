@@ -37,7 +37,8 @@ Special blocks (required for recipes):
 
 ## License
 
-For both textures and code: WTFPL
+For both textures and code by GaboXandre: [WTFPL](http://www.wtfpl.net/)
+
 
 ## Note
 This is my first mod. Code is certainly ugly, if not downright hideous. 
