@@ -65,7 +65,7 @@ for number = 1,3 do
 		is_ground_content = false,
 		sunlight_propagates = true,
 		iventory_image = "trongrid_tronblock_transparent_"..lcolour..".png",
-		tiles = {"trongrid_tronblock_transparent_"..lccolour..".png"},
+		tiles = {"trongrid_tronblock_transparent_"..lcolour..".png"},
 		groups = {cracky = 3, oddly_breakable_by_hand = 1, stone = 1},
 	})
 
@@ -120,5 +120,3 @@ end
 			{""},
 		}
 	})
-
-dofile(minetest.get_modpath("trongrid").."/elevator.lua")
