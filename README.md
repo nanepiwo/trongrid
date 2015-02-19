@@ -1,6 +1,6 @@
 # TronGrid
 
-Nanepiwo's fork of the Gabo's tron[grid] mod: 
+Nanepiwo's fork of Gabo's tron[grid] mod: 
 
 Yet another Tron-inspired mod.
 * Author: GaboXandre
@@ -12,7 +12,7 @@ Yet another Tron-inspired mod.
 ### Building Blocks
 All blocks available in blue, green and red.
 Glowing blocks:
-* Center/corner blocks
+* Center/Corner blocks
 * Horizontal lines
 * Vertical lines/Pillars
 * Tron Glass
@@ -23,8 +23,18 @@ Non-glowing blocks:
 
 ## Dependencies
 * default
-* moreblocks
 * dyes
+
+## Crafting
+
+Black stone:
+
+X--------------X
+|   Black Dye  |
+X--------------X
+| Group: Stone |
+X--------------X
+
 
 ## License
 
