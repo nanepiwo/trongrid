@@ -12,7 +12,7 @@ for number = 1,3 do
 
 -- Blocks
 
-	minetest.register_node("trongrid:tronblock_center_"..lcolour , {
+	minetest.register_node("trongrid:square_"..lcolour , {
 		description = ccolour.." Tronblock Square Stone",
 		drawtype = "glasslike",
 		paramtype = "light",
@@ -24,7 +24,7 @@ for number = 1,3 do
 		groups = {cracky = 3, oddly_breakable_by_hand = 1, stone = 1},
 	})
 
-	minetest.register_node("trongrid:tronblock_horizontal_"..lcolour , {
+	minetest.register_node("trongrid:line_"..lcolour , {
 		description = ccolour.." Tronblock Line Stone",
 		drawtype = "glasslike",
 		paramtype = "light",
@@ -38,7 +38,7 @@ for number = 1,3 do
 	})
 
 
-	minetest.register_node("trongrid:tronblock_vertical_"..lcolour , {
+	minetest.register_node("trongrid:pillar_"..lcolour , {
 		description = ccolour.." Tronblock Pillar Stone",
 		drawtype = "glasslike",
 		paramtype = "light",
@@ -57,7 +57,7 @@ for number = 1,3 do
 		groups = {cracky = 3, oddly_breakable_by_hand = 1, stone = 1},
 	})
 
-	minetest.register_node("trongrid:tronblock_glass"..lcolour , {
+	minetest.register_node("trongrid:glass_"..lcolour , {
 		description = ccolour.." Tronblock Glass Stone",
 		drawtype = "glasslike",
 		paramtype = "light",
