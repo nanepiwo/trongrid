@@ -16,7 +16,6 @@ Glowing blocks:
 * Horizontal lines
 * Vertical lines/Pillars
 * Tron Glass
-* Tron Elevator blocks (~ ladders)
 
 Non-glowing blocks:
 * Tron black grid block
@@ -34,6 +33,10 @@ X--------------X
 X--------------X
 | Group: Stone |
 X--------------X
+
+Center Blocks: 
+
+
 
 
 ## License
